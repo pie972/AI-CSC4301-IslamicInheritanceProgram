@@ -7,12 +7,7 @@ Welcome to this project on Islamic inheritance
 
 ## Youtube Video
 Click on the Image !
-[![IslamicInheritanceProgramUsingProlog](Screenshots/download.PNG)](https://www.youtube.com/watch?v=YB2iMI6nShw&t)
-
-
-
-## Screenshots
-![](Screenshots/download.PNG)
+[![IslamicInheritanceProgramUsingProlog](Screenshots/download.JPG)](https://www.youtube.com/watch?v=YB2iMI6nShw&t)
 
 
 
