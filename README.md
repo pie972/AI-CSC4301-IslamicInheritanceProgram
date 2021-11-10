@@ -6,7 +6,7 @@ Welcome to this project on Islamic inheritance <br />
 
 
 ## Youtube Video
-My Youtube channel: https://www.youtube.com/watch?v=rphdTeWU2i4
+My Youtube channel: https://www.youtube.com/watch?v=rphdTeWU2i4 <br />
 Click on the Image ! <br />
 [![Watch the video](https://github.com/imanejalal972/IslamicInheritanceProgramUsingProlog/blob/main/picture%20prolog.jpg)](https://www.youtube.com/watch?v=rphdTeWU2i4)
 
