@@ -12,8 +12,6 @@ Click on the Image !
 
 
 
-
-
 ## Islamic inheritance rules To Check
 CONCEPTS simplified Youtube channel:   https://www.youtube.com/watch?v=rphdTeWU2i4
 Islamic inheritance rules picture:   https://i.pinimg.com/originals/e3/3a/c4/e33ac4ac8e3cf13ac79731582b6e2fbb.jpg
