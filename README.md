@@ -1,5 +1,5 @@
 # IslamicInheritanceProgramUsingProlog
-## Description
+## Summary
 ** Calculate inheritance shares of eligible heirs according to Islamic law based on Qur'an and Sunnah. ** <br />
 Welcome to this project on Islamic inheritance <br />
 
